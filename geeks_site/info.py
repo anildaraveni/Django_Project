@@ -1,0 +1,5 @@
+EMAIL_USE_TLS=True
+EMAIL_HOST="smtp.gmail.com"
+EMAIL_HOST_USER="daraveni888@gmail.com"
+EMAIL_HOST_PASSWORD="Redmi@139"
+EMAIL_PORT=587
